@@ -1,0 +1,292 @@
+{
+  "products": [
+    {
+      "inCart": 0,
+      "name": "Hilda Lebsack",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2F0zK0JCByT5WH303oQ1og_annasea0013SalmonFillet-lagre%402x.jpg?alt=media&token=283906ff-9e01-46bf-9619-4c63c9751dc2",
+      "price": "41000",
+      "description": "Cá là những động vật có dây sống, phần lớn là ngoại nhiệt, có mang và sống dưới nước. Hiện người ta biết khoảng trên 31.900 loài cá, điều này làm cho chúng trở thành nhóm đa dạng nhất trong số các động vật có dây sống.",
+      "quantity": "28",
+      "categoriesID": "43wr4okgg",
+      "id": "1"
+    },
+    {
+      "inCart": 0,
+      "name": "Tôm tươi đóng gói",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FIMG-3350-large2x.jpg?alt=media&token=099172d5-cd4b-4375-8f6d-af8e565e67e1",
+      "price": "60.00",
+      "description": "payment Platinum compressing",
+      "quantity": "12",
+      "categoriesID": "43wr4okgg",
+      "id": "2"
+    },
+    {
+      "inCart": 0,
+      "name": "dưa hấu hà nội",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2F3CTVFPKQfif3nLqDOT9V_rau%20m%C3%A1-large%402x.jpg?alt=media&token=9a9ab163-bfe0-42f6-93aa-7b8c8c55a4ef",
+      "price": "35600",
+      "description": "Có thể đánh giá ngay chất lượng rau, củ trái cây tươi thông qua các yêu tố như: mùi vị, cấu trúc, màu sắc… Do đó các chỉ tiêu này là rất quan trọng đối với rau, củ, trái cây tươi mà chúng ta không thể bỏ qua. Các chỉ tiêu cảm quan thông thường sẽ được đánh giá bằng cách sử dụng các giác quan của con người.                            ",
+      "quantity": "3",
+      "categoriesID": "1",
+      "id": "t1pakiyi2"
+    },
+    {
+      "inCart": 0,
+      "name": "rau cải xanh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2Fv6o4clyjSBaVNOgLXuQW_%C4%91%E1%BB%8Dt%20m%E1%BB%93ng%20t%C6%A1i-large%402x.jpg?alt=media&token=313df372-5082-4100-94b1-713c97495952",
+      "price": "2000",
+      "description": "sản xuất từ thiên nhiên                        ",
+      "quantity": "12",
+      "categoriesID": "2",
+      "id": "pmw5a80fz"
+    },
+    {
+      "inCart": 0,
+      "name": "Qủa táo tây",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2F5nnnGy0jRjC3HQvTXaCw_x%C3%A0%20l%C3%A1ch%20b%C3%BAp%20m%E1%BB%A1-large%402x.jpg?alt=media&token=ee3d8713-06f0-4177-a0f0-17c458c3bfc5",
+      "price": "1000",
+      "description": "táo sản xuất từ hà nội                        ",
+      "quantity": "12",
+      "categoriesID": "2",
+      "id": "avxo866qe"
+    },
+    {
+      "inCart": 0,
+      "id": "avs5s7xw3",
+      "name": "Thịt kho trứng cút",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FTht-Kho-Trng-Ct-large2x.jpg?alt=media&token=7d10a32b-538b-4ff3-a196-450624c2fab1",
+      "categoriesID": "61n4ehj4x",
+      "price": "2230",
+      "description": " đồ ăn nấu sẵn dành cho sinh viên                     \n                        ",
+      "quantity": "2"
+    },
+    {
+      "inCart": 0,
+      "name": "rau cải",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2F0bcgOhU6RewT1A5Y8ZkQ_cu-cai-trang-large%402x.jpg.jpg?alt=media&token=0a2b4945-0a17-497c-84fd-cd7fe255d005",
+      "price": "123",
+      "description": "sdgfsadsfadf                      ",
+      "quantity": "12",
+      "categoriesID": "2",
+      "id": "pkqng1tm9"
+    },
+    {
+      "inCart": 0,
+      "id": "ra5hz73zr",
+      "name": "Cà chua nâu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2F6BGL1FgbT4qUJc4pJhqy_Ca%20Chua%20So%20Co%20La-large%402x.jpg?alt=media&token=4e230a8f-55d9-40ff-94c2-a71d60bf8a31",
+      "categoriesID": "2",
+      "price": "1200",
+      "description": " Rau, có thời kỳ còn gọi là la ghim, là tên gọi chung cho những bộ phận của thực vật được con người hay động vật dùng làm thực phẩm. Ý nghĩa này hiện vẫn được sử dụng phổ biến và áp dụng cho những thực vật có bộ phận ăn được, bao gồm hoa, quả, thân, lá, rễ và hạt.                     \n                        ",
+      "quantity": "12"
+    },
+    {
+      "name": "Cá sama ke tươi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FIMG-3280-large2x.jpg?alt=media&token=cd15468e-00db-43df-baab-060c4eb2dc37",
+      "price": "1200",
+      "description": " hải sản tươi sống nhập khẩu từ nhật bản                                             ",
+      "quantity": "55",
+      "categoriesID": "43wr4okgg",
+      "id": "u35838yev"
+    },
+    {
+      "inCart": 0,
+      "id": "n8die1bvr",
+      "name": "Canh chua thịt băm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FCanh-B--Tht-Bm-large2x.jpg?alt=media&token=a3a7a196-eedd-4eac-b105-7e96912d7784",
+      "categoriesID": "61n4ehj4x",
+      "price": "30000",
+      "description": "được náu tại cung điện                      \n                        ",
+      "quantity": "12"
+    },
+    {
+      "inCart": 0,
+      "id": "15e6n11u9",
+      "name": "thịt lợn mông",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2Ff0ca602b725540c5b39af0123b528d8f.png?alt=media&token=8a14532d-0d9f-4c21-8d47-0db4143e0f4d",
+      "categoriesID": "xkffpzc4p",
+      "price": "35500",
+      "description": "thịt nhập từ hà nội                       \n                        ",
+      "quantity": "1"
+    },
+    {
+      "inCart": 0,
+      "id": "o8qoxapkv",
+      "name": "Thịt bò nam phi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FproductImages-1547616631257.png?alt=media&token=5d127ab8-c2ba-427b-a80d-64942be369e7",
+      "categoriesID": "xkffpzc4p",
+      "price": "120000",
+      "description": " Thịt thực phẩm hay gọi thường là thịt là mô cơ của một số loài động vật như bò, lợn, gà được dùng làm thực phẩm cho con người. Con người đã săn bắt và giết động vật để lấy thịt từ thời tiền sử. Sự ra đời của nền văn minh cho phép các loài động vật như gà, cừu, thỏ, lợn và gia súc được thuần hóa.                     \n                        ",
+      "quantity": "30"
+    },
+    {
+      "inCart": 0,
+      "name": "Cá lọc kho Tộ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FC-Lc-Kho-T-large2x.jpg?alt=media&token=4a5cd251-2f64-43b9-936f-1e0f4db95416",
+      "price": "52000",
+      "description": "đều cho bột nghệ tan hết chín đều 2 mặt.Khi thấy phần nước nghệ đã cạn xăm xắp lại, cho tiếp phần hành lá và ớt xắt vào. Đun thêm 2 - 3 phút nữa thì tắt bếp.                                              ",
+      "quantity": "4",
+      "categoriesID": "43wr4okgg",
+      "id": "cwwnxt7v0"
+    },
+    {
+      "id": "haid14uxq",
+      "name": "Cá chim Tươi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2FIMG-9879-large2x.jpg?alt=media&token=942076ee-fe9b-4c22-bba5-6ef5ec2a939b",
+      "categoriesID": "43wr4okgg",
+      "price": "65000",
+      "description": "                      \n                      sản phẩm tươi sống ở hà nội  ",
+      "quantity": "12"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "thực phẩm"
+    },
+    {
+      "name": "rau củ",
+      "id": "2"
+    },
+    {
+      "id": "xkffpzc4p",
+      "name": "Thịt tươi"
+    },
+    {
+      "id": "61n4ehj4x",
+      "name": "Món ăn "
+    },
+    {
+      "id": "43wr4okgg",
+      "name": "hải sản"
+    }
+  ],
+  "user": [
+    {
+      "name": "thinduy",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2Fl1.jpg?alt=media&token=242b8c36-8640-4702-92c4-d7978dd0bebc",
+      "email": "thinduy@gmail.com",
+      "password": "123",
+      "id": "1"
+    },
+    {
+      "name": "huykkk",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2Fc3.jpg?alt=media&token=ef493579-6bb5-45aa-a199-73a49ca9729a",
+      "email": "huy@gmail.com",
+      "password": "123",
+      "id": "3"
+    },
+    {
+      "name": "thin duy",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/ogani-5bbf0.appspot.com/o/image%2Fokkk.jpg?alt=media&token=d94e9e30-1606-43b1-8c08-cd3251260684",
+      "email": "thinduy@gmail.com",
+      "password": "123",
+      "id": "tmjo4qj2b"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "nameContact": "thin duy",
+      "emailContact": "thin@gmail.com",
+      "messageContact": "toi can ho tro"
+    },
+    {
+      "id": "2",
+      "nameContact": "dang long",
+      "emailContact": "long@gmail.com",
+      "messageContact": "thực phẩm toi can ho tro"
+    },
+    {
+      "id": "9e4sivz16",
+      "nameContact": "nguyen duy lien",
+      "emailContact": "lien@gmail.com",
+      "messageContact": "moi lam"
+    },
+    {
+      "id": "r5d5qyxvy",
+      "nameContact": "trang da đen",
+      "emailContact": "trankieutrang@gmail.com",
+      "messageContact": "gklaiwsụhfalskdjhflakjdhsf,kạdhf"
+    }
+  ],
+  "invoices": [
+    {
+      "name": "thin duy",
+      "phone": "03364585",
+      "email": "thinduy@gmail.com",
+      "address": "hà hải , me linh",
+      "note": "ship nhanh cho tôi",
+      "totalPrice": "45000",
+      "confirm": "1",
+      "payment": "2",
+      "id": "1"
+    },
+    {
+      "name": "sản phảm mới",
+      "phone": "03364585",
+      "email": "thin@gmail.com",
+      "address": "hà nội",
+      "note": "moi nelele",
+      "totalPrice": "3000",
+      "confirm": "2",
+      "payment": "1",
+      "id": "2"
+    },
+    {
+      "name": "nguoi mới đayt23333",
+      "phone": "0336128555",
+      "email": "thin@gmail.com",
+      "address": "ha nội ",
+      "note": "123123123",
+      "totalPrice": "147800",
+      "confirm": "2",
+      "payment": "1",
+      "id": "vns8ycasy"
+    },
+    {
+      "name": "nguyễn văn sỹ",
+      "phone": "0336128555",
+      "email": "sy@gmail.com",
+      "address": "me linh",
+      "note": "123123123",
+      "totalPrice": "153800",
+      "confirm": "1",
+      "payment": "1",
+      "id": "f46klzmod"
+    },
+    {
+      "name": "lê thị thùy trang",
+      "phone": "0336128555",
+      "email": "trang@gmail.com",
+      "address": "xom đê,mê linh,hà nội",
+      "note": "3123123",
+      "totalPrice": "46490",
+      "confirm": "1",
+      "payment": "2",
+      "id": "r9xmov7x1"
+    },
+    {
+      "name": "vy văn huy",
+      "phone": "0988889999",
+      "email": "huy@gmail.com",
+      "address": "xom đê,mê linh,hà nội",
+      "note": "12412312",
+      "totalPrice": "48890",
+      "confirm": "2",
+      "payment": "1",
+      "id": "9iq8ey1s4"
+    },
+    {
+      "id": "k0hpxstya",
+      "name": "dang van long",
+      "phone": "0988889999",
+      "email": "logn@gmail.com",
+      "address": "thanh hoa",
+      "totalPrice": "41060",
+      "note": "",
+      "payment": "2",
+      "confirm": 1
+    }
+  ]
+}
